@@ -1,7 +1,7 @@
 {
     "name": "anikova-spa",
     "private": true,
-    "homepage": "",
+    "homepage": "https://akiraharoky.github.io/anikova-react-spa/",
     "version": "0.0.0",
     "type": "module",
     "scripts": {
